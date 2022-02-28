@@ -1,0 +1,39 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch APP",
+      "request": "launch",
+      "mainClass": "APP",
+      "projectName": "javaProject_9c0ccaae"
+    },
+    {
+      "type": "java",
+      "name": "Launch COURS",
+      "request": "launch",
+      "mainClass": "COURS",
+      "projectName": "javaProject_9c0ccaae"
+    },
+    {
+      "type": "java",
+      "name": "Launch cours",
+      "request": "launch",
+      "mainClass": "cours",
+      "projectName": "javaProject_9c0ccaae"
+    },
+    {
+      "type": "java",
+      "name": "Launch App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "javaProject_9c0ccaae"
+    },
+    {
+      "type": "java",
+      "request": "attach",
+      "name": "Java",
+      "port": 5005,
+      "sourceRoots": []
+    }
+  ]
+}
